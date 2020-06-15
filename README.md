@@ -6,7 +6,7 @@ Topics Include:
 - JavaScript Objects (OOP)
 - JavaScript Events
 - DOM Manipulation
-- Async JavaScript
+- Asynchronous JavaScript
 - Third-Party APIs
 - Client-Side Storage
 ```
