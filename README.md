@@ -4,8 +4,7 @@ This repository contains many of the worked through examples in MDN's [Learn web
 Topics Include: 
 ```
 Third-Party APIs
-JavaScript Objects
-Object Oriented Programming
+JavaScript Objects (OOP)
 JavaScript Events
 DOM Manipulation
 Client-Side Storage
