@@ -2,14 +2,14 @@
 This repository contains many of the worked through examples in MDN's [Learn web development](https://developer.mozilla.org/en-US/docs/Learn) course. The majority of work comes from the JavaScript portion of the course. 
 
 Topics Include: 
-'''
+```
 Third-Party APIs
 JavaScript Objects
 Object Oriented Programming
 JavaScript Events
 DOM Manipulation
 Client-Side Storage
-'''
+```
 
 ## Completed Projects
 
