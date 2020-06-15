@@ -1,5 +1,5 @@
 # MDN-learn-web-dev 👨‍💻
-This repository contains many of the worked through examples in MDN's [Learn web development](https://developer.mozilla.org/en-US/docs/Learn) course. The majority of work comes from the JavaScript portion of the course. 
+This repository contains course material from MDN's [Learn web development](https://developer.mozilla.org/en-US/docs/Learn) module. The majority of work represented in this repository comes from the JavaScript portion of the course. 
 
 Topics Include: 
 ```
