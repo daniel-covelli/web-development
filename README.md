@@ -13,7 +13,7 @@ Topics Include:
 
 ## Completed Projects
 
-###### [Bouncing Balls project](https://github.com/daniel-covelli/MDN-learn-web-dev/tree/master/js-objects/bounding-balls)
+###### [Bouncing Balls](https://github.com/daniel-covelli/MDN-learn-web-dev/tree/master/js-objects/bounding-balls)
 <img src="https://i.gyazo.com/9ee25c3d8ef0040ab72341b80d477c07.gif" width="900"/>
 
 ###### [New York Times API](https://github.com/daniel-covelli/MDN-learn-web-dev/tree/master/APIs/third-party)
