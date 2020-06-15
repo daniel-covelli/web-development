@@ -7,4 +7,4 @@ This repository contains many of the worked through examples in MDN's Learn Web 
 <img src="https://i.gyazo.com/9ee25c3d8ef0040ab72341b80d477c07.gif" width="900"/>
 
 ###### [nyt article search](https://github.com/daniel-covelli/MDN-learn-web-dev/tree/master/APIs/third-party)
-<img src="https://i.gyazo.com/9ee25c3d8ef0040ab72341b80d477c07.gif" width="900"/>
+<img src="resources/nytimes-api.png" width="900"/>
