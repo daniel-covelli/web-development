@@ -1,7 +1,7 @@
 # MDN-learn-web-dev 👨‍💻
 This repository contains many of the worked through examples in MDN's Learn Web Development course. The majority of work comes from the JavaScript portion of the course. 
 
-[Learn web development](https://developer.mozilla.org/en-US/docs/Learn)
+Resources in the repo come from [Learn web development](https://developer.mozilla.org/en-US/docs/Learn) module in the Mozilla Developer Network documentation. 
 
 ## Completed Projects
 
