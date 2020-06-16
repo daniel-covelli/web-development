@@ -9,6 +9,7 @@ Topics Include:
 - Asynchronous JavaScript
 - Third-Party APIs
 - Client-Side Storage
+- Server-Side Programming
 ```
 
 ## Completed Projects
