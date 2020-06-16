@@ -10,6 +10,7 @@ Topics Include:
 - Third-Party APIs
 - Client-Side Storage
 - Server-Side Programming
+- Website Security
 ```
 
 ## Completed Projects
