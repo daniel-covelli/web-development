@@ -11,6 +11,7 @@ Topics Include:
 - Client-Side Storage
 - Server-Side Programming
 - Website Security
+- Express Web Framework
 ```
 
 ## Completed Projects
