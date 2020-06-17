@@ -1,0 +1,15 @@
+{
+  "name": "intro-express",
+  "version": "1.0.0",
+  "description": "Intro to express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Covelli",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  }
+}
