@@ -26,4 +26,4 @@ Topics Include:
 
 <img src="APIs/third-party-APIs/nytimes-api.png" width="900"/>
 
-###### [Local Library Website](https://github.com/daniel-covelli/MDN-learn-web-dev/tree/master/local-library-project)
+###### [Local Library (Full Stack) Project](https://github.com/daniel-covelli/MDN-learn-web-dev/tree/master/local-library-project)
