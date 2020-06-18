@@ -28,7 +28,7 @@ exports.index = function (req, res) {
       res.render('index', {
         title: 'Local Library Home',
         error: err,
-        data: results
+        data: results // returned as an array
       });
     }
   );
