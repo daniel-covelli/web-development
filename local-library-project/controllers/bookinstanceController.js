@@ -170,7 +170,7 @@ exports.bookinstance_update_get = function (req, res, next) {
       }
       // Success.
       res.render('bookinstance_form', {
-        title: 'Update Book Instance',
+        title: 'Update Book Copy',
         book_list: results.books,
         selected_book: results.bookinstance.book._id,
         bookinstance: results.bookinstance
