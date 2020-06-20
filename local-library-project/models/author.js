@@ -40,9 +40,15 @@ AuthorSchema.virtual('date_of_death_formatted').get(function () {
 
 // Virtual for author's lifespan
 AuthorSchema.virtual('lifespan').get(function () {
-  return (
-    this.date_of_death.getYear() - this.date_of_birth.getYear()
-  ).toString();
+  var lifespan_string = '';
+  if (this.date_of_birth) {
+    lifespan_string = this.date_of_birth_formatted;
+  }
+  lifespan_string += ' - ';
+  if (this.date_of_death) {
+    lifespan_string += this.date_of_death_formatted;
+  }
+  return lifespan_string;
 });
 
 // Virtual for author's URL
