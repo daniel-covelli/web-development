@@ -11,6 +11,8 @@ block content
         for book in book_list
           if bookinstance
             option(value=book._id selected=(selected_book==book._id.toString() ? 'selected' : false)) #{book.title}
+          else
+            option(value=book._id) #{book.title}
     
     div.form-group
       label(for='imprint') Imprint:
