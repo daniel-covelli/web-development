@@ -1,5 +1,5 @@
 {
-  "name": "local-library-project",
+  "name": "local-library",
   "version": "0.0.0",
   "engines": {
     "node": "12.16.3"
@@ -7,7 +7,8 @@
   "private": true,
   "scripts": {
     "start": "node ./bin/www",
-    "devstart": "nodemon ./bin/www"
+    "devstart": "nodemon ./bin/www",
+    "serverstart": "DEBUG=local-library:* npm run devstart"
   },
   "dependencies": {
     "async": "^3.2.0",
