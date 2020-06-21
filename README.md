@@ -30,4 +30,4 @@ Topics Include:
 ###### [Local Library (Full Stack) Project](https://github.com/daniel-covelli/MDN-learn-web-dev/tree/master/local-library-project) - [Link](https://local-library-mozilla.herokuapp.com/catalog)
 
 <img src="https://i.gyazo.com/8d93d25f3f772246eb05eaadfd53078a.gif" width="900"/>
-<sub><sup>Deployed at: https://github.com/daniel-covelli/local-library on Heroku</sup></sub>
+<sup>Deployed at: https://github.com/daniel-covelli/local-library on Heroku</sup>
