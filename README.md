@@ -14,6 +14,7 @@ Topics Include:
 - Server-Side Programming
 - Website Security
 - Express Web Framework
+- Full Stack Deployment
 ```
 
 ## Completed Projects
