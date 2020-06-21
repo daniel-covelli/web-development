@@ -26,6 +26,6 @@ Topics Include:
 
 <img src="APIs/third-party-APIs/nytimes-api.png" width="900"/>
 
-###### [Local Library (Full Stack) Project](https://github.com/daniel-covelli/MDN-learn-web-dev/tree/master/local-library-project) [Link](https://local-library-mozilla.herokuapp.com/catalog)
+###### [Local Library (Full Stack) Project](https://github.com/daniel-covelli/MDN-learn-web-dev/tree/master/local-library-project) - [Link](https://local-library-mozilla.herokuapp.com/catalog)
 
 <img src="https://i.gyazo.com/8d93d25f3f772246eb05eaadfd53078a.gif" width="900"/>
